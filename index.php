@@ -25,7 +25,7 @@
 				</div>
 				<div class="navbar-collapse collapse" id="navbar-collapse-main">						
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="index.jsp"  	class="btn btn-lg">Home</a></li>
+						<li><a href="index.php"  	class="btn btn-lg">Home</a></li>
 						<li><a href="profile.jsp"  	class="btn btn-lg">Profile</a></li>
 						<li><a href="product.jsp"  	class="btn btn-lg">Product</a></li>
 						<li><a href="activity.jsp"  class="btn btn-lg">Activity</a></li>
