@@ -26,11 +26,11 @@
 				<div class="navbar-collapse collapse" id="navbar-collapse-main">						
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="index.php"  	class="btn btn-lg">Home</a></li>
-						<li><a href="profile.jsp"  	class="btn btn-lg">Profile</a></li>
-						<li><a href="product.jsp"  	class="btn btn-lg">Product</a></li>
-						<li><a href="activity.jsp"  class="btn btn-lg">Activity</a></li>
-						<li><a href="service.jsp" 	class="btn btn-lg">Services</a></li>
-						<li><a href="contact.jsp"  	class="btn btn-lg">Contact us</a></li>
+						<li><a href="profile.php"  	class="btn btn-lg">Profile</a></li>
+						<li><a href="product.php"  	class="btn btn-lg">Product</a></li>
+						<li><a href="activity.php"  class="btn btn-lg">Activity</a></li>
+						<li><a href="service.php" 	class="btn btn-lg">Services</a></li>
+						<li><a href="contact.php"  	class="btn btn-lg">Contact us</a></li>
 					</ul>
 				</div>
 			</div>
@@ -72,8 +72,8 @@
 			        	<p>ออกแบบและพัฒนา Website ที่ทันสมัยด้วย HTML5 ที่สามารถรันได้บนทุก Platform ไม่ว่าจะเป็นบน PC Mac Mobile รวมไปถึง Tablet ได้อย่างสวยงาม กับ Trend ที่กำลังมาใหม่</p>
 			      </div>
 			      <div class="col-sm-12 col-xs-12">
-        				<a href ="service.jsp"><i class="glyphicon glyphicon-option-horizontal"> </i></a>
-			        	<h4><a href ="service.jsp">Service Etc.</a></h4>
+        				<a href ="service.php"><i class="glyphicon glyphicon-option-horizontal"> </i></a>
+			        	<h4><a href ="service.php">Service Etc.</a></h4>
 			        	<p></p>
 			      </div>
 			    </div>
