@@ -1,0 +1,88 @@
+/* general styles */
+html, body {
+  height: 100%;
+  width: 100%;
+  padding-bottom: 70px;
+}
+
+/* padded section */
+.pad-section {
+  padding: 50px 0;
+}
+.pad-section img {
+  width: 100%;
+}
+
+/* vertical-centered text */
+.text-vcenter {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+.text-vcenter h1 {
+  font-size: 4.5em;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+
+/* additional sections */
+#home {
+  background: url(Social_Icons/Technology-Wallpaper.jpg) no-repeat center center fixed; 
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#about {
+}
+
+#services {
+  background-color: none;
+  color: black;
+}
+#services .glyphicon {
+  border: 2px solid #306d9f;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 60px;
+  height: 120px;
+  line-height: 120px;
+  text-align: center;
+  vertical-align: middle;
+  width: 120px;
+}
+
+#information {
+  background: url() no-repeat center center fixed; 
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#information .panel {
+  opacity: 0.85;
+}
+
+#google_map {
+  height: 500px;
+}
+.p{
+	padding: 5px 40px;
+}
+p.small {
+    line-height: 90%;
+}
+
+p.big {
+    line-height: 200%;
+}
