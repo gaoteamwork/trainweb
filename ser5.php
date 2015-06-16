@@ -38,11 +38,10 @@
 		</nav>
 	<div class="panel panel-info" >...</div>
 	<div class="panel panel"></div>
-	<h1 class="text-center text-primary">Profile</h1>
+	<h1 class="text-center text-primary">Call Center System</h1>
 	<br/>
 	<br/>
 	<br/>
-	<h2 class="text-center text-danger">Call Center System</h2>
 		
 	
 			
