@@ -3,8 +3,8 @@
 		<meta charset = "UTF-8">
 		<title>SMART ICT</title>
 		<script src="js/jquery.js"></script>
-		<link rel="stylesheet" href="fotorama.css">
-		<script src="fotorama.js"></script>
+		<link rel="stylesheet" href="fotorama/fotorama.css">
+		<script src="fotorama/fotorama.js"></script>
 		<link rel="stylesheet" href="styles.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/bootstrap-theme.css">
