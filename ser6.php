@@ -42,8 +42,7 @@
 	<br/>
 	<br/>
 	<br/>
-	
-	<h2 class="text-center text-danger">PBX Link Trunk</h2>
+	<h2 class="text-center text-danger">In Door WiFi Solution</h2>
 		
 	
 			
