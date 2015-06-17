@@ -70,7 +70,6 @@
 			      </div>
 			      <div class="col-sm-3 col-xs-12">
 	     			 	<a href ="#"><i class="glyphicon glyphicon-th-large"></i></a>
-
 			        	<h4><a href ="#">Application Solutions</a></h4>
 			        	<p>ออกแบบและพัฒนา Website ที่ทันสมัยด้วย HTML5 ที่สามารถรันได้บนทุก Platform ไม่ว่าจะเป็นบน PC Mac Mobile รวมไปถึง Tablet ได้อย่างสวยงาม กับ Trend ที่กำลังมาใหม่</p>
 			      </div>
