@@ -45,100 +45,80 @@
 	<div class="container">
 		<div class="row" align = "center">
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-success">Wireless</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-success">Switches</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-success">iMG</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		</div>
 		
 		<div class="row" align = "center">
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-success">iMAP</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-success">Network Interface Cards</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-success">Security Appliances</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		</div>
 		
 		<div class="row" align = "center">
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-success">Media Converters</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-success">Feel-Top</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-success">PBX Solutions</a></h3>
-		        </div>
-		    </div>
+		      </div>
 		  </div>
 		</div>
 		<div class="row" align = "center">
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-success">Accessories</a></h3>
 		      </div>
-		    </div>
-		    </div>
-		 </div>
+		  </div>
+		</div>
 	</div>
 		 
 		<footer class="container-fluid">
