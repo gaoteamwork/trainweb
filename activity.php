@@ -43,61 +43,44 @@
 	<br>
 	<br>
 	
-	<div class="container">
-		<div class="row" align = "center">
-		  <div class="col-xs-12 col-md-4">
-		      <img src="" width="242" height="200" alt="...">
-		      <div class="caption">
-		        <h3><a href ="#" class="text-danger">โครงการเสนาดิเวลลอปเม้นท์</a></h3>
-		      </div>
-		  </div>
-		
-		  <div class="col-xs-12 col-md-4">
-		      <img src="" width="242" height="200" alt="...">
-		      <div class="caption">
-		        <h3><a href ="#" class="text-danger">โครงการทวาย</a></h3>
-		      </div>
-		  </div>
-		
-		  <div class="col-xs-12 col-md-4">
-		      <img src="" width="242" height="200" alt="...">
-		      <div class="caption">
-		        <h3><a href ="#" class="text-danger">โครงการอิตาเลียนไทย</a></h3>
-		      </div>
-		  </div>
-		</div>
-		
-		<div class="row" align = "center">
-		  <div class="col-xs-12 col-md-4">
-		      <img src="" width="242" height="200" alt="...">
-		      <div class="caption">
-		        <h3><a href ="#" class="text-danger">โครงการกล้องวงจรปิดเสนา</a></h3>
-		      </div>
-		  </div>
-		
-		  <div class="col-xs-12 col-md-4">
-		      <img src="" width="242" height="200" alt="...">
-		      <div class="caption">
-		        <h3><a href ="#" class="text-danger">โครงการศุภาลัยปาสักรีสอร์ท</a></h3>
-		      </div>
-		  </div>
-		
-		  <div class="col-xs-12 col-md-4">
-		      <img src="" width="242" height="200" alt="...">
-		      <div class="caption">
-		        <h3><a href ="#" class="text-danger">โครงการยูนิค เอ็นจิเนียริ่ง</a></h3>
-		      </div>
-		  </div>
-		</div>
-		
-		<div class="row" align = "center">
-		  <div class="col-xs-12 col-md-4">
-		      <img src="" width="242" height="200" alt="...">
-		      <div class="caption">
-		        <h3><a href ="#" class="text-danger">โครงการอิตาเลียนไทย วิหารแดง</a></h3>
-		      </div>
-		  </div>
-		  </div>
+		<div class="container">
+			<div class="row" align = "center">
+			  <div class="col-xs-12 col-md-4">
+			      <a href ="#"><img src="ActivityPic/mainPic/SenaA1.gif" width="242" height="200" alt="..."></a>
+			  </div>
+			
+			  <div class="col-xs-12 col-md-4">
+			      <a href ="#"><img src="ActivityPic/mainPic/Dawai1.gif" width="242" height="200" alt="..."></a>
+			  </div>
+			
+			  <div class="col-xs-12 col-md-4">
+			      <a href ="#"><img src="ActivityPic/mainPic/Italianthai1.gif" width="242" height="200" alt="..."></a>
+			  </div>
+			</div>
+			<div class="panel panel"></div>
+			<div class="panel panel"></div>
+			
+			<div class="row" align = "center">
+			  <div class="col-xs-12 col-md-4">
+			      <a href ="#"><img src="ActivityPic/mainPic/SenaCCTV1.gif" width="242" height="200" alt="..."></a>
+			  </div>
+			  <div class="col-xs-12 col-md-4">
+			      <a href ="#"><img src="ActivityPic/mainPic/Suppalai1.gif" width="242" height="200" alt="..."></a>
+			  </div>
+			  <div class="col-xs-12 col-md-4">
+			      <a href ="#"><img src="ActivityPic/mainPic/Unique1.gif" width="242" height="200" alt="..."></a>
+			  </div>
+			</div>
+			<div class="panel panel"></div>
+			<div class="panel panel"></div>
+			
+			<div class="row" align = "center">
+			  <div class="col-xs-12 col-md-4">
+			      <a href ="#"><img src="ActivityPic/mainPic/Wihandang1.gif" width="242" height="200" alt="..."></a>
+			  </div>
+			</div>
+			<div class="panel panel"></div>
+			<div class="panel panel"></div>
 	</div>
 			
 			<footer class="container-fluid">
