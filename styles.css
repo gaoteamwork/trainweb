@@ -55,6 +55,8 @@ html, body {
   text-align: center;
   vertical-align: middle;
   width: 120px;
+  margin: 2px;
+  padding: 2px;
 }
 
 #information {
