@@ -39,9 +39,9 @@
 		<div class="panel panel">...</div>
 		<div class="panel panel"></div>
 		<h1 class="text-center text-primary">Product</h1>
-		
-	
-
+		<br>
+		<br>
+		<br>
 	<div class="container">
 		<div class="row" align = "center">
 		  <div class="col-xs-12 col-md-4">

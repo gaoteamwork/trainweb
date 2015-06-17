@@ -39,75 +39,63 @@
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
 	<h1 class="text-center text-primary">Activity</h1>
-	
+	<br>
+	<br>
+	<br>
 	
 	<div class="container">
 		<div class="row" align = "center">
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-danger">โครงการเสนาดิเวลลอปเม้นท์</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-danger">โครงการทวาย</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-danger">โครงการอิตาเลียนไทย</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		</div>
 		
 		<div class="row" align = "center">
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-danger">โครงการกล้องวงจรปิดเสนา</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-danger">โครงการศุภาลัยปาสักรีสอร์ท</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-danger">โครงการยูนิค เอ็นจิเนียริ่ง</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		</div>
 		
 		<div class="row" align = "center">
 		  <div class="col-xs-12 col-md-4">
-		    <div class="panel panel-danger">
 		      <img src="" width="242" height="200" alt="...">
 		      <div class="caption">
 		        <h3><a href ="#" class="text-danger">โครงการอิตาเลียนไทย วิหารแดง</a></h3>
 		      </div>
-		    </div>
 		  </div>
 		  </div>
 	</div>
