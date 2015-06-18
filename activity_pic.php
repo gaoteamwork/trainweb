@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-		<meta charset = "UTF-8">
-		<title>SMART ICT</title>
 		<script src="js/jquery.js"></script>
-		<link rel="stylesheet" href="fotorama.css">
-		<script src="fotorama.js"></script>
+		<link rel="stylesheet" href="fotorama/fotorama.css">
+		<script src="fotorama/fotorama.js"></script>
 		<link rel="stylesheet" href="styles.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/bootstrap-theme.css">
 		<link rel="stylesheet" type="text/css" href="css/responsive.css" media="screen">
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
 		<meta name="viewport" content="width=divice-width, initial-scale=1" charset="UTF-8">
 </head>
 <body>
@@ -43,45 +44,16 @@
 	<br>
 	<br>
 	
-		<div class="container">
-			<div class="row" align = "center">
-			  <div class="col-xs-12 col-md-4">
-			      <a href ="activity_pic.php"><img src="ActivityPic/mainPic/SenaA1.gif" width="242" height="200" alt="..."></a>
-			  </div>
-			
-			  <div class="col-xs-12 col-md-4">
-			      <a href ="activity_pic.php"><img src="ActivityPic/mainPic/Dawai1.gif" width="242" height="200" alt="..."></a>
-			  </div>
-			
-			  <div class="col-xs-12 col-md-4">
-			      <a href ="activity_pic.php"><img src="ActivityPic/mainPic/Italianthai1.gif" width="242" height="200" alt="..."></a>
-			  </div>
-			</div>
-			<div class="panel panel"></div>
-			<div class="panel panel"></div>
-			
-			<div class="row" align = "center">
-			  <div class="col-xs-12 col-md-4">
-			      <a href ="activity_pic.php"><img src="ActivityPic/mainPic/SenaCCTV1.gif" width="242" height="200" alt="..."></a>
-			  </div>
-			  <div class="col-xs-12 col-md-4">
-			      <a href ="activity_pic.php"><img src="ActivityPic/mainPic/Suppalai1.gif" width="242" height="200" alt="..."></a>
-			  </div>
-			  <div class="col-xs-12 col-md-4">
-			      <a href ="activity_pic.php"><img src="ActivityPic/mainPic/Unique1.gif" width="242" height="200" alt="..."></a>
-			  </div>
-			</div>
-			<div class="panel panel"></div>
-			<div class="panel panel"></div>
-			
-			<div class="row" align = "center">
-			  <div class="col-xs-12 col-md-4">
-			      <a href ="#"><img src="ActivityPic/mainPic/Wihandang1.gif" width="242" height="200" alt="..."></a>
-			  </div>
-			</div>
-			<div class="panel panel"></div>
-			<div class="panel panel"></div>
-	</div>
+	<div class="fotorama" data-nav="thumbs" align="center">
+		  <img src="ActivityPic/เสนา/IMG_1.gif">
+		  <img src="ActivityPic/เสนา/IMG_2.gif">
+		  <img src="ActivityPic/เสนา/IMG_3.gif">
+		  <img src="ActivityPic/เสนา/IMG_4.gif">
+		  <img src="ActivityPic/เสนา/IMG_5.gif">
+		  <img src="ActivityPic/เสนา/IMG_6.gif">
+		  <img src="ActivityPic/เสนา/IMG_7.gif">
+		  <img src="ActivityPic/เสนา/IMG_8.gif">
+	</div>	
 			
 			<footer class="container-fluid">
 				<div class="alert alert-info">
