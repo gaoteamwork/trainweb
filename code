@@ -1,0 +1,7 @@
+<?php
+ 	
+ 		$sql = "SELECT * FROM roomtype ";
+		$Query = mysql_query($sql);
+		
+ 	
+ 	while ($result = mysql_fetch_array($Query)) {  ?>
