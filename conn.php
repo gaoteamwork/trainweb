@@ -1,9 +1,9 @@
 <?php
     
 	$HOST="localhost"; 
-  	$DB_USER="thbrooms_admin"; 
- 	$DB_PWD="admin882"; 
- 	$DB_NAME="thbrooms_butierooms";
+  	$DB_USER="root"; 
+ 	$DB_PWD="1234"; 
+ 	$DB_NAME="smict";
   
   $DB_HOST=(!empty($PORT)) ? $HOST.":".$PORT : $HOST;
   
