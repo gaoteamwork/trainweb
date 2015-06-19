@@ -38,7 +38,7 @@
 		</nav>
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
-	<h1 class="text-center text-primary">IP TV Solution</h1>
+	<h1 class="text-center text-primary">Corporate IP-PBX Solutions</h1>
 		
 	
 	
