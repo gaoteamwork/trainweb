@@ -3,20 +3,20 @@
   <head>
    		
    		 <title>ADMIN SMART ICT</title>
-    	<meta name="description" content="Flat UI Kit Free is a Twitter Bootstrap Framework design and Theme, this responsive framework includes a PSD and HTML version."/>
-
-   		 <meta charset="UTF-8" name="viewport" content="width=100%, initial-scale=1.0, maximum-scale=1.0">
-
-   		 <!-- Loading Bootstrap -->
-   		 <link href="dist/css/vendor/bootstrap.min.css" rel="stylesheet">
-
-  		  <!-- Loading Flat UI -->
-  		  <link href="dist/css/flat-ui.css" rel="stylesheet">
-  		  <link href="docs/assets/css/demo.css" rel="stylesheet">
-
-   		 <link rel="shortcut icon" href="img/favicon.ico">
+    	<script src="js/jquery.js"></script>
+		<link rel="stylesheet" href="fotorama/fotorama.css">
+		<script src="fotorama/fotorama.js"></script>
+		<link rel="stylesheet" href="styles.css">
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/bootstrap-theme.css">
+		<link rel="stylesheet" type="text/css" href="css/responsive.css" media="screen">
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+		<meta name="viewport" content="width=divice-width, initial-scale=1" charset="UTF-8">
 
     
+    	
   </head>
   <body>
   
