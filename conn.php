@@ -2,7 +2,7 @@
     
 	$HOST="localhost"; 
   	$DB_USER="root"; 
- 	$DB_PWD="1234"; 
+ 	$DB_PWD=""; 
  	$DB_NAME="smict";
   
   $DB_HOST=(!empty($PORT)) ? $HOST.":".$PORT : $HOST;

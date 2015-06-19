@@ -15,10 +15,7 @@
 </head>
 <body>
 	
-	<?php
- 	include 'conn.php';
-
-	?>
+	
 	
 	
 		<nav class="navbar navbar-default navbar-fixed-top">
@@ -51,94 +48,69 @@
 	<br>
 	<br>
 	
+	<?php
+ 	include 'conn.php';
 	
-	
-		  <?php
- 	
- 		$sql = "SELECT * FROM activity ";
-		$Query = mysql_query($sql);
-		
-		
- 	
- 	while ($result = mysql_fetch_array($Query)) {  ?>
- 		
- 	<div class="col-sm-6 col-md-4">
-    <div class="thumbnail">
-      <img src="<?php echo $result[""];?>" width="360" height="280">
-      <div class="caption">
-        <h3><?php echo $result["ID_AC"];?></h3>
-        <p>รายละเอียด:<?php echo $result["NAME_MANI_AC"];?></p>
-        <p>ราคา: <?php echo $result["AC_DETIAL"];?>บาท/คืน</p>
-                <!-- Large modal -->
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#<?php echo $result["rtype_id"];?>">จองห้องพัก >></button>
-<!-- Modal -->
-<div class="modal fade" id="<?php echo $result["rtype_id"];?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-    	
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">จองห้องพัก</h4>
-      </div>
-      
-      <div class="container">
- 				<h3><?php echo $result["rtype_name"];?></h3>
-			<div class="row">
-				
-				<div class=" col-lg-6 col-md-offset- col-md-8">
-									
-						<div class="row">							
-							<form id="form<?php echo $result["rtype_id"];?>" role="form" method="post" action="searchroom.php">
-							<div class="col-md-12">
-								<img src="<?php echo $result["rtype_pic"];?>" class="img-responsive">
-								<input type="hidden" value="<?php echo $result["rtype_pic"];?>" name="pic_path"/>
-								<input type="hidden" value="<?php echo $result["rtype_id"];?>" name="rtype_id"/>
-								<input type="hidden" value="<?php echo $result["rtype_price"];?>" name="rtype_price"/>
-								<?php echo $result["rtype_price"];?>
-								<p> <?php echo $result["rtype_detail"];?></p>
-							</div>
-							<div class="col-sm-3">
-								<div class="form-group">
-									<span class="form-control" id="fromDisplay<?php echo $result["rtype_id"];?>" name="from">Check in</span>
-									<input type="hidden" name="from" value="" id="fromInput<?php echo $result["rtype_id"];?>" required>
-									<div class="vf-datepicker" id="startDP<?php echo $result["rtype_id"];?>"></div>
-								</div>
-							</div>
-							<div class="col-sm-3">
-								<div class="form-group">
-									<span class="form-control" id="toDisplay<?php echo $result["rtype_id"];?>">Check out</span>
-									<input type="hidden" name="to" value="" id="toInput<?php echo $result["rtype_id"];?>"required>
-									<div class="vf-datepicker" id="endDP<?php echo $result["rtype_id"];?>"></div>
-								</div>
-							</div>
-							<br>
-							<button type="submit" class="btn btn-info">เช็คห้อง</button>
-							</form>
-						</div>
-					
-				</div>
-			</div>
-			<div class="col-md-2">
-			</div>
-		
-		</div>
-		<br>
-      <div class="modal-footer">
-      	
-        <button type="button" class="btn btn-default" data-dismiss="modal">ยกเลิก</button>
-      </div>
-    </div>
-  </div>
-</div> 
-      </div>
-    </div>
+?>
+	<div class="container">
+	<div>
+		<h1 class="feature">กิจกรรม</h1>
 	</div>
- 		
- 		
- 		
- 		
-	</div>	
+<div class="row">
+			 
+			 	<?php
+			 	
+			 		$sql = "SELECT * FROM activity";
+					$Query = mysql_query($sql);?>
+		<div class="col-sm-12 col-md-12 col-xs-12">
+  	   	<nav class="thumbnail  ">
+			<table class="table table-hover  table-bordered" >
+				
+			<tr>
+				<caption><h3>ตารางกิจกรรม</h3></caption>
+			
+					<Th>No.ID</Th>
+					<Th>Name</Th>
+					<Th>detail</Th>
+				<?php	while ($result = mysql_fetch_array($Query)) {  ?>
+				
+			<tr>
+					
+					<td>
+						<?php echo $result["ID_AC"];?>
+					</td>
+						
+			
+			
+			
+					<td>
+					<?php echo $result["NAME_MANI_AC"];?>	
+					</td>
+					
+			
+		
+			
+			
+					<td>
+					<?php echo $result["AC_DETIAL"];?>  <?php	 } ?>
+					</td>
+					
+			</tr>
+			
+			  	   	  	 
+								
+			
+	        </table>
+	       		
+  	   	</nav>
+  	   	</div>
+  	   	</div>
+
+	
+  	   	</div>
+  	   		
+	   		
+    		 </div>
 			
 			<footer class="container-fluid">
 				<div class="alert alert-info">

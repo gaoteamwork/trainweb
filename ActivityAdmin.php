@@ -19,6 +19,10 @@
     
   </head>
   <body>
+  	<?php
+ 	include 'conn.php';
+	
+?>
   
  			<div class="container ">
 	  			<div class="row ">
@@ -38,38 +42,50 @@
   	   	<nav class="thumbnail  ">
 			<table class="table table-hover  table-bordered" >
 			<tr>
-				<caption><h3>ตารางกิจกรรม</h3></caption>
 				
+				<?php
+			 	
+			 		$sql = "SELECT * FROM activity";
+					$Query = mysql_query($sql);?>
+		<div class="col-sm-12 col-md-12 col-xs-12">
+  	   			<table class="table table-hover  table-bordered" >
+				
+			<tr>
+				<caption><h3>ตารางกิจกรรม</h3></caption>
+			
 					<Th>No.ID</Th>
 					<Th>Name</Th>
-					<Th>Type</Th>
-					<Th>MPic</Th>
-					<Th>Pic</Th>
-					<Th>Feature</Th>
-			</tr>
-			
+					<Th>detail</Th>
+				<?php	while ($result = mysql_fetch_array($Query)) {  ?>
+				
 			<tr>
-					<td>1</td>
-					<td>ทวาย</td>
-					<td>01</td>
-					<td>#path</td>
-					<td>#path</td>
-					<td>01</td>
+					
+					<td>
+						<?php echo $result["ID_AC"];?>
+					</td>
+						
+			
+			
+			
+					<td>
+					<?php echo $result["NAME_MANI_AC"];?>	
+					</td>
+					
+			
+		
+			
+			
+					<td>
+					<?php echo $result["AC_DETIAL"];?>  <?php	 } ?>
+					</td>
+					
 			</tr>
 			
-			<tr>
-					<td>2</td>
-					<td>วิหารแดง</td>
-					<td>02</td>
-					<td>#path</td>
-					<td>#path</td>
-					<td>02</td>
-			</tr>
-			
-			
-			
+			  	   	  	 
+								
 			
 	        </table>
+	       		
   	   	</nav>
   	   	</div>
   	   	</div>
@@ -106,15 +122,10 @@
 				         </div>
 				   </div>
 				   
+				
 				   <div class="col-xs-6 col-sm-6  col-md-6">
 				         <div class="form-group has-success">
-				            <input type="text" value="" placeholder="Input Type" class="form-control" />
-				         </div>
-				   </div>
-				   
-				   <div class="col-xs-6 col-sm-6  col-md-6">
-				         <div class="form-group has-success">
-				           <textarea wrap="off" class="form-control" >Input Feature</textarea>
+				           <textarea wrap="off" class="form-control" >Input Detail</textarea>
 				         </div>
 				   </div>
 			
