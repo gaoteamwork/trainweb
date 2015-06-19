@@ -21,6 +21,7 @@
   <body>
   		<?php
  	include 'conn.php';
+	include 'NavAdmin.php';
 	
 ?>
   
@@ -68,30 +69,45 @@
 							<Th>P_ID</Th>
 							<Th>ชื่อสินค้า</Th>
 							<Th>C_id</Th>
-							<Th>C_id</Th>
-							<Th>C_id</Th>
-							<Th>C_id</Th>
+							<Th>ชื่อประเภท</Th>
+							<Th>รายละเอียดสินค้า</Th>
+							<Th>พาร์ทรูป</Th>
 							
 						<?php	while ($result = mysql_fetch_array($Query)) {  ?>
 						
 					<tr>
-							
-							<td>
-							 	<?php echo $result["p_id"];?>
-							</td>
-								
-							<td>
-							<?php echo $result["p_name"];?>	
-							</td>
-							
 					
-							<td>
-							<?php echo $result["p_c_pic_path"]; }?> 
-							
-							</td>
-							
-							
-					</tr>
+					<td>
+					 	<?php echo $result["p_id"];?>
+					</td>
+						
+					<td>
+					<?php echo $result["p_name"];?>	
+					</td>
+					
+			
+					<td>
+					<?php echo $result["p_c_id"]; ?> 
+					
+					</td>
+
+					<td>
+					<?php echo $result["p_c_name"]; ?> 
+					
+					</td>
+
+					<td>
+					<?php echo $result["p_detail"]; ?> 
+					
+					</td>
+					
+					<td>
+					<?php echo $result["p_pic_path"]; }?> 
+					
+					</td>
+					
+					
+			</tr>
 					
 					  	   	  	 
 										

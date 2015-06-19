@@ -21,6 +21,7 @@
   	
   	<?php
  	include 'conn.php';
+	include 'NavAdmin.php';
 	
 ?>
   

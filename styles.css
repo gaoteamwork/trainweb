@@ -87,4 +87,12 @@ p.small {
 p.big {
     line-height: 200%;
 }
+/*แท็บเมนูแอดมิน*/
+.navbar-default11 {
+
+  background-color: #DDDDDD;
+
+  border-color: #DDDDDD;
+
+}
 
