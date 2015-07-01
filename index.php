@@ -19,8 +19,8 @@
 		<?php
  	include 'Nav.php';
 	
-?>
-		
+?> 
+	
 		<div class="panel panel-primary">...</div>
 		<div class="panel panel"></div>
 			<div class="fotorama"  data-autoplay="true" data-width="1440"data-height="500"> 
