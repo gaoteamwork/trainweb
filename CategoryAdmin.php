@@ -102,7 +102,7 @@
 		        </div>
 		     
 		     	<div class="col-xs-3 col-sm-4  col-md-3">
-		           <a href="#" class="btn  btn-lg btn-success">Save</a>
+		           <a href="#" class="btn  btn-lg btn-success onclick="saveDataInDB()">Save</a>
 		        </div>
 		     	
 		        <div class="col-xs-3 col-sm-4  col-md-3">
