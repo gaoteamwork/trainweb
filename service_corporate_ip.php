@@ -38,8 +38,21 @@
 		</nav>
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
-	<h1 class="text-center text-primary">Corporate IP-PBX Solutions</h1>
-		
+	<div class="container panel panel-primary"><h1 class="text-center text-primary">Corporate IP-PBX Solutions</h1>
+	<h2 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corporate IP-PBX Solutions</h2>
+	<div class="p"><p class="big">บริการด้านการเชื่อมต่อระบบตู้โทรศัพท์ ระหว่างสาขาเพื่อให้โทรหากันฟรี ให้แก่องค์กร ด้วยเทคโนโลยี IP-PABX ของ Panasonic Solutions</p></div>
+				<div class="panel panel"></div>
+				<div class="container" align="center"><img src="ServicePic/corporate1.png" width="70%" height="70%"></div>
+		<div class="panel panel"></div></div>
+				<div class="container panel panel-primary" align="center"><img src="ServicePic/corporate2.png" width="70%" height="70%"></div>
+		<div class="panel panel"></div>
+				<div class="container panel panel-primary" align="center"><img src="ServicePic/corporate3.png" width="70%" height="70%"></div>
+		<div class="panel panel"></div>
+				<div class="container panel panel-primary" align="center"><img src="ServicePic/corporate4.png" width="70%" height="70%"></div>
+		<div class="panel panel"></div>
+				<div class="container panel panel-primary" align="center"><img src="ServicePic/corporate5.png" width="70%" height="70%"></div>
+		<div class="panel panel"></div>
+
 	
 	
 	

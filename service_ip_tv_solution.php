@@ -38,9 +38,18 @@
 		</nav>
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
-	<h1 class="text-center text-primary">IP TV Solution</h1>
 		
-	
+	<div class="container">
+		<nav class="panel panel-primary" >
+		<h1 class="text-center text-primary">IP TV Solution</h1>
+				<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IP TV Solution</h3>
+				<div class="p"><p class="big">บริการด้านจัดทำระบบ IPTV ดู TV ผ่านระบบ IP ที่มีคามสามรถต่างจาก TV ทั่วไป </p></div>
+				<div class="panel panel"></div>
+				<div align="center"><img src="ServicePic/iptv1.png" width="55%" height="55%"></div>
+				</nav>
+				<div class="panel panel-primary">
+				<div align="center"><img src="ServicePic/iptv2.png" width="55%" height="55%"></div></div>
+	</div>
 	
 	
 	
