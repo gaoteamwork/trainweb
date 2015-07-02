@@ -22,40 +22,58 @@
   
 		 
 		 
-		 
+		 <form name="form1" method="post" action="check_login.php">
 		 <div class="container ">
 		 
 	  			<div class="row ">
 				 <div class="container" >
-					 <div class="col-sm-12 col-xs-12 ">
-						<nav class=" thumbnail ">
-						
+					 <div class="col-sm-12 col-md-12 col-xs-12 ">
+						<div class=" thumbnail ">
+							
 							<div class="" align = "center" ><h1 class="text-primary"> 
-							<img src="img/icons/svg/retina.svg" alt="Retina">
+							<div class="col-sm-12 col-md-12 col-xs-12">	
+							<img src="Social_Icons/CompanyLogo.png" width="50%" height="50%">
+							</div>
 							<br><br>LOGIN ADMIN</h1></div>
-					 	</nav>
+							
+					 	</div>
 		 			 </div> 
 	 			 </div>
  			 </div>
-
+		
+		
+		<div class="row ">
+			<div class="col-sm-3 col-md-3 col-xs-3">
+			</div>
+			<div class="col-sm-6 col-md-6 col-xs-6">
           <div class="login-form">
             <div class="form-group">
               <input type="text" class="form-control login-field" value="" placeholder="Enter your name" id="login-name" />
               <label class="login-field-icon fui-user" for="login-name"></label>
             </div>
+           </div>
+         <div class="col-sm-3 col-md-3 col-xs-3"></div>
+
 
             <div class="form-group">
               <input type="password" class="form-control login-field" value="" placeholder="Password" id="login-pass" />
               <label class="login-field-icon fui-lock" for="login-pass"></label>
             </div>
-
-            <a class="btn btn-primary btn-lg btn-block" href="#">Log in</a>
-            <a class="login-link" href="#">Lost your password?</a>
-          </div>
-    	 </div>
-   
-      
-  			  				 
-   
+		</div>	
+			
+		</div>
+			
+			<div class="row ">
+			<div class="col-sm-4 col-md-4 col-xs-4"></div>
+			
+			<div class="col-sm-4 col-md-4 col-xs-4">
+	            <a class="btn btn-primary btn-lg btn-block " href="#">Log in</a>
+	            <a class="login-link" href="#">Lost your password?</a>
+        	</div>
+ 			
+			<div class="col-sm-4 col-md-4 col-xs-4"></div>
+			
+      		</div>		 
+   </form>
   </body>
 </html>
