@@ -15,11 +15,10 @@
 		<meta name="viewport" content="width=divice-width, initial-scale=1" charset="UTF-8">
 </head>
 <body>
-		
+
 		<?php
  	include 'Nav.php';
-	
-?> 
+		?> 
 	
 		<div class="panel panel-primary">...</div>
 		<div class="panel panel"></div>

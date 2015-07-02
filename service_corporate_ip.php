@@ -13,33 +13,29 @@
 		<meta name="viewport" content="width=divice-width, initial-scale=1" charset="UTF-8">
 </head>
 <body>
-		<nav class="navbar navbar-default navbar-fixed-top">
-			<div class="container">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-main">
-				        <span class="sr-only">Toggle navigation</span>
-				        <span class="icon-bar"></span>
-				        <span class="icon-bar"></span>
-				        <span class="icon-bar"></span>
-				    </button>
-      				<a class="navbar-brand" href="index.php"><img alt="Brand" src="Social_Icons/CompanyLogo.jpg" width="80" height="25"></a>
-				</div>
-				<div class="navbar-collapse collapse" id="navbar-collapse-main">						
-					<ul class="nav navbar-nav navbar-right">
-						<li><a href="index.php"  	class="btn btn-lg">Home</a></li>
-						<li><a href="profile.php"  	class="btn btn-lg">Profile</a></li>
-						<li><a href="product.php"  	class="btn btn-lg">Product</a></li>
-						<li><a href="activity.php"  class="btn btn-lg">Activity</a></li>
-						<li><a href="service.php"  	class="btn btn-lg">Services</a></li>
-						<li><a href="contact.php"  	class="btn btn-lg">Contact us</a></li>
-					</ul>
-				</div>
-			</div>
-		</nav>
+			
+		<?php
+ 	include 'Nav.php';
+		?> 
+		
+		
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
-	<h1 class="text-center text-primary">Corporate IP-PBX Solutions</h1>
-		
+	<div class="container panel panel-primary"><h1 class="text-center text-primary">Corporate IP-PBX Solutions</h1>
+	<h2 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corporate IP-PBX Solutions</h2>
+	<div class="p"><p class="big">บริการด้านการเชื่อมต่อระบบตู้โทรศัพท์ ระหว่างสาขาเพื่อให้โทรหากันฟรี ให้แก่องค์กร ด้วยเทคโนโลยี IP-PABX ของ Panasonic Solutions</p></div>
+				<div class="panel panel"></div>
+				<div class="container" align="center"><img src="ServicePic/corporate1.png" width="70%" height="70%"></div>
+		<div class="panel panel"></div></div>
+				<div class="container panel panel-primary" align="center"><img src="ServicePic/corporate2.png" width="70%" height="70%"></div>
+		<div class="panel panel"></div>
+				<div class="container panel panel-primary" align="center"><img src="ServicePic/corporate3.png" width="70%" height="70%"></div>
+		<div class="panel panel"></div>
+				<div class="container panel panel-primary" align="center"><img src="ServicePic/corporate4.png" width="70%" height="70%"></div>
+		<div class="panel panel"></div>
+				<div class="container panel panel-primary" align="center"><img src="ServicePic/corporate5.png" width="70%" height="70%"></div>
+		<div class="panel panel"></div>
+
 	
 	
 	

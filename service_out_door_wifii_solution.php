@@ -13,34 +13,27 @@
 		<meta name="viewport" content="width=divice-width, initial-scale=1" charset="UTF-8">
 </head>
 <body>
-		<nav class="navbar navbar-default navbar-fixed-top">
-			<div class="container">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-main">
-				        <span class="sr-only">Toggle navigation</span>
-				        <span class="icon-bar"></span>
-				        <span class="icon-bar"></span>
-				        <span class="icon-bar"></span>
-				    </button>
-      				<a class="navbar-brand" href="index.php"><img alt="Brand" src="Social_Icons/CompanyLogo.jpg" width="80" height="25"></a>
-				</div>
-				<div class="navbar-collapse collapse" id="navbar-collapse-main">						
-					<ul class="nav navbar-nav navbar-right">
-						<li><a href="index.php"  	class="btn btn-lg">Home</a></li>
-						<li><a href="profile.php"  	class="btn btn-lg">Profile</a></li>
-						<li><a href="product.php"  	class="btn btn-lg">Product</a></li>
-						<li><a href="activity.php"  class="btn btn-lg">Activity</a></li>
-						<li><a href="service.php"  	class="btn btn-lg">Services</a></li>
-						<li><a href="contact.php"  	class="btn btn-lg">Contact us</a></li>
-					</ul>
-				</div>
-			</div>
-		</nav>
+			
+		<?php
+ 	include 'Nav.php';
+		?> 
+		
+		
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
-	<h1 class="text-center text-primary">Out Door WiFi Solution</h1>
 		
-	
+	<div class="container">
+		<nav class="panel panel-primary" >
+		<h1 class="text-center text-primary">Out Door Wi-Fi Solution</h1>
+				<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Out Door Wi-Fi Solution</h3>
+				<div class="p"><p class="big">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;บริการด้านจัดทำระบบ WI-FI Out Door ออกแบบ ติดตั้ง ดูแล แก้ปัญหา ระบบ Wireless ในองค์กรของคุณให้ทำงานอย่างมีประสิทธิภาพ 
+				  ระบบ Wireless ภายนอก ระยะใกล้ ระยะไกล point to point ประมาณ 1-200 ก.ม. เราสามารถ ให้บริการท่านได้ทุกรูปแบบ </p></div>
+				<div class="panel panel"></div>
+				<div align="center"><img src="ServicePic/outdoor1.png" width="60%" height="60%"></div>
+		</nav>
+				<div class="panel panel-primary"><div class="panel panel"></div>
+				<div align="center"><img src="ServicePic/outdoor2.png" width="70%" height="70%"></div><div class="panel panel"></div></div>
+	</div>
 	
 	
 	

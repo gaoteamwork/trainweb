@@ -38,11 +38,24 @@
 		</nav>
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
-	<h1 class="text-center text-primary">Security Solution</h1>
 		
+	<div class="container">
+		<nav class="panel panel-primary" >
+		<h1 class="text-center text-primary">Security Solution</h1>
+				<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Security Solution</h3>
+				<div class="p"><p class="big">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;บริการด้านจัดทำ Security กล้อง IP-Camera ออกแบบ ติดตั้ง ดูแล แก้ปัญหา ระบบกล้องวงจรปิด 
+				ภายในองค์กรของคุณ ไม่ว่าคุณจะอยู่ที่ไหนบนโลกใบนี้    เราจะเชื่อมโยงคุณให้สามารถอุ่นใจได้ทุกที่ กับระบบกล้องวงจรปิดของเรา </p></div>
+				<div class="panel panel"></div>
+				<div align="center"><img src="ServicePic/security1.png" width="70%" height="70%"><div class="panel panel"></div></div>
+		</nav>
+				<div class="panel panel-primary"><div class="panel panel"></div>
+				<div align="center"><img src="ServicePic/security2.png" width="70%" height="70%"></div>	<div class="panel panel"></div></div>
+				<div class="panel panel-primary"><div class="panel panel"></div>
+				<div align="center"><img src="ServicePic/security3.png" width="70%" height="70%"></div><div class="panel panel"></div></div>
+				
+	</div>
 	
-	
-	
+	  
 	
 	
 			<footer class="container-fluid">
