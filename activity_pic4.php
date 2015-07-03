@@ -27,6 +27,29 @@
 	<h2 class="text-center text-primary">โครงการกล้องวงจรปิดเสนา</h2>
 	<br>
 	
+	<div class="container " align = "center">
+		<div class="fotorama" data-nav="thumbs">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.1.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.2.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.3.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.4.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.5.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.6.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.7.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.8.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.9.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.10.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.11.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.12.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.13.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.14.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.15.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.16.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.17.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.18.gif">
+		  <img src="ActivityPic/กล้องวงจรปิดเสนา/c1.19.gif">
+		</div>
+	</div>
 	
 	<br>		
 	<?php

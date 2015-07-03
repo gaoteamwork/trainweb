@@ -27,6 +27,29 @@
 	<h2 class="text-center text-primary">โครงการอิตาเลียนไทยวิหารแดง</h2>
 	<br>
 	
+	<div class="container " align = "center">
+		<div class="fotorama" data-nav="thumbs">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi1.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi2.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi3.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi4.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi5.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi6.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi7.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi8.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi9.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi10.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi11.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi12.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi13.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi14.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi15.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi16.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi17.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi18.gif">
+		  <img src="ActivityPic/อิตาเลียนไทยวิหารแดง/vi19.gif">
+		</div>
+	</div>
 	
 	<br>		
 	<?php

@@ -34,8 +34,13 @@
 		  <img src="ActivityPic/เสนา/IMG_3.gif">
 		  <img src="ActivityPic/เสนา/IMG_4.gif">
 		  <img src="ActivityPic/เสนา/IMG_5.gif">
+		  <img src="ActivityPic/เสนา/IMG_6.gif">
+		  <img src="ActivityPic/เสนา/IMG_7.gif">
+		  <img src="ActivityPic/เสนา/IMG_8.gif">
+
 		</div>
-	</div><br>
+	</div>
+	<br>
 			
 	<?php
  	include 'footer.php';

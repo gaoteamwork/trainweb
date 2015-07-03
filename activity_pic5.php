@@ -19,14 +19,29 @@
  	include 'Nav.php';
 		?> 
 		
-		
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
-	
 	<br>
 	<h2 class="text-center text-primary">โครงการศุภาลัยป่าสักรีสอร์ท</h2>
 	<br>
 	
+	<div class="container " align = "center">
+		<div class="fotorama" data-nav="thumbs">
+		  <img src="ActivityPic/ป่าสัก/pa1.gif">
+		  <img src="ActivityPic/ป่าสัก/pa2.gif">
+		  <img src="ActivityPic/ป่าสัก/pa3.gif">
+		  <img src="ActivityPic/ป่าสัก/pa4.gif">
+		  <img src="ActivityPic/ป่าสัก/pa5.gif">
+		  <img src="ActivityPic/ป่าสัก/pa6.gif">
+		  <img src="ActivityPic/ป่าสัก/pa7.gif">
+		  <img src="ActivityPic/ป่าสัก/pa8.gif">
+		  <img src="ActivityPic/ป่าสัก/pa9.gif">
+		  <img src="ActivityPic/ป่าสัก/pa10.gif">
+		  <img src="ActivityPic/ป่าสัก/pa11.gif">
+		  <img src="ActivityPic/ป่าสัก/pa12.gif">
+		  <img src="ActivityPic/ป่าสัก/pa14.gif">
+		</div>
+	</div>
 	
 	<br>		
 	<?php

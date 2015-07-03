@@ -27,6 +27,27 @@
 	<h2 class="text-center text-primary">โครงการยูนิค เอ็นจิเนียริ่ง</h2>
 	<br>
 	
+	<div class="container " align = "center">
+		<div class="fotorama" data-nav="thumbs">
+		  <img src="ActivityPic/ยูนิคเอ็น/u1.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u2.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u3.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u4.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u5.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u6.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u7.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u8.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u9.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u10.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u11.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u12.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u13.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u14.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u15.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u16.gif">
+		  <img src="ActivityPic/ยูนิคเอ็น/u17.gif">		  
+		</div>
+	</div>
 	
 	<br>		
 	<?php

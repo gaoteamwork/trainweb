@@ -27,6 +27,16 @@
 	<h2 class="text-center text-primary">โครงการอิตาเลียนไทย</h2>
 	<br>
 	
+	<div class="container " align = "center">
+		<div class="fotorama" data-nav="thumbs">
+		  <img src="ActivityPic/อิตาเลียนไทย/Ita1.gif">
+		  <img src="ActivityPic/อิตาเลียนไทย/Ita2.gif">
+		  <img src="ActivityPic/อิตาเลียนไทย/Ita3.gif">
+		  <img src="ActivityPic/อิตาเลียนไทย/Ita4.gif">
+		  <img src="ActivityPic/อิตาเลียนไทย/Ita5.gif">
+		  <img src="ActivityPic/อิตาเลียนไทย/Ita6.gif">
+		</div>
+	</div>
 	
 	<br>		
 	<?php

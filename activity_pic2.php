@@ -27,6 +27,27 @@
 	<h2 class="text-center text-primary">โครงการทวาย</h2>
 	<br>
 	
+	<div class="container " align = "center">
+		<div class="fotorama" data-nav="thumbs">
+		  <img src="ActivityPic/ทวาย/Dawai1.gif">
+		  <img src="ActivityPic/ทวาย/Dawai2.gif">
+		  <img src="ActivityPic/ทวาย/Dawai3.gif">
+		  <img src="ActivityPic/ทวาย/Dawai4.gif">
+		  <img src="ActivityPic/ทวาย/Dawai5.gif">
+		  <img src="ActivityPic/ทวาย/Dawai6.gif">
+		  <img src="ActivityPic/ทวาย/Dawai7.gif">
+		  <img src="ActivityPic/ทวาย/Dawai8.gif">
+		  <img src="ActivityPic/ทวาย/Dawai9.gif">
+		  <img src="ActivityPic/ทวาย/Dawai10.gif">
+		  <img src="ActivityPic/ทวาย/Dawai11.gif">
+		  <img src="ActivityPic/ทวาย/Dawai12.gif">
+		  <img src="ActivityPic/ทวาย/Dawai13.gif">
+		  <img src="ActivityPic/ทวาย/Dawai14.gif">
+		  <img src="ActivityPic/ทวาย/Dawai15.gif">
+		  <img src="ActivityPic/ทวาย/Dawai16.gif">
+		  <img src="ActivityPic/ทวาย/Dawai17.gif">
+		</div>
+	</div>
 	
 	<br>		
 	<?php
