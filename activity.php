@@ -29,15 +29,32 @@
 		<div class="container">
 			<div class="row" align = "center">
 			  <div class="col-xs-12 col-md-4">
-			      <a href ="activity_pic.php"><img src="ActivityPic/mainPic/SenaA1.gif" width="242" height="200" alt="..."></a>
+			      <a href ="activity_pic1.php"><img src="ActivityPic/mainPic/SenaA1.gif" width="242" height="200" alt="..."></a>
 			  </div>
 			
 			  <div class="col-xs-12 col-md-4">
-			      <a href ="activity_pic.php"><img src="ActivityPic/mainPic/Dawai1.gif" width="242" height="200" alt="..."></a>
+			      <a href ="activity_pic2.php"><img src="ActivityPic/mainPic/Dawai1.gif" width="242" height="200" alt="..."></a>
 			  </div>
 			
 			  <div class="col-xs-12 col-md-4">
-			      <a href ="activity_pic.php"><img src="ActivityPic/mainPic/Italianthai1.gif" width="242" height="200" alt="..."></a>
+			      <a href ="activity_pic3.php"><img src="ActivityPic/mainPic/Italianthai1.gif" width="242" height="200" alt="..."></a>
+			  </div>
+			</div>
+			
+			<div class="panel panel"></div>
+			<div class="panel panel"></div>
+			
+			<div class="row" align = "center">
+			  <div class="col-xs-12 col-md-4">
+			      <a href ="activity_pic4.php"><img src="ActivityPic/mainPic/SenaCCTV1.gif" width="242" height="200" alt="..."></a>
+			  </div>
+			  
+			  <div class="col-xs-12 col-md-4">
+			      <a href ="activity_pic5.php"><img src="ActivityPic/mainPic/Suppalai1.gif" width="242" height="200" alt="..."></a>
+			  </div>
+			  
+			  <div class="col-xs-12 col-md-4">
+			      <a href ="activity_pic6.php"><img src="ActivityPic/mainPic/Unique1.gif" width="242" height="200" alt="..."></a>
 			  </div>
 			</div>
 			<div class="panel panel"></div>
@@ -45,21 +62,7 @@
 			
 			<div class="row" align = "center">
 			  <div class="col-xs-12 col-md-4">
-			      <a href ="activity_pic.php"><img src="ActivityPic/mainPic/SenaCCTV1.gif" width="242" height="200" alt="..."></a>
-			  </div>
-			  <div class="col-xs-12 col-md-4">
-			      <a href ="activity_pic.php"><img src="ActivityPic/mainPic/Suppalai1.gif" width="242" height="200" alt="..."></a>
-			  </div>
-			  <div class="col-xs-12 col-md-4">
-			      <a href ="activity_pic.php"><img src="ActivityPic/mainPic/Unique1.gif" width="242" height="200" alt="..."></a>
-			  </div>
-			</div>
-			<div class="panel panel"></div>
-			<div class="panel panel"></div>
-			
-			<div class="row" align = "center">
-			  <div class="col-xs-12 col-md-4">
-			      <a href ="#"><img src="ActivityPic/mainPic/Wihandang1.gif" width="242" height="200" alt="..."></a>
+			      <a href ="activity_pic7.php"><img src="ActivityPic/mainPic/Wihandang1.gif" width="242" height="200" alt="..."></a>
 			  </div>
 			</div>
 			<div class="panel panel"></div>

@@ -24,72 +24,10 @@
 	<div class="panel panel"></div>
 	<h1 class="text-center text-primary">Activity</h1>
 	<br>
+	<h2 class="text-center text-primary">โครงการทวาย</h2>
 	<br>
-	<br>
 	
-	<?php
- 	include 'conn.php';
 	
-?>
-	<div class="container">
-	<div>
-		<h1 class="feature">กิจกรรม</h1>
-	</div>
-<div class="row">
-			 
-			 	<?php
-			 	
-			 		$sql = "SELECT * FROM activity";
-					$Query = mysql_query($sql);?>
-		<div class="col-sm-12 col-md-12 col-xs-12">
-  	   	<nav class="thumbnail  ">
-			<table class="table table-hover  table-bordered" >
-				
-			<tr>
-				<caption><h3>ตารางกิจกรรม</h3></caption>
-			
-					<Th>No.ID</Th>
-					<Th>Name</Th>
-					<Th>detail</Th>
-				<?php	while ($result = mysql_fetch_array($Query)) {  ?>
-				
-			<tr>
-					
-					<td>
-						<?php echo $result["ID_AC"];?>
-					</td>
-						
-			
-			
-			
-					<td>
-					<?php echo $result["NAME_MANI_AC"];?>	
-					</td>
-					
-			
-		
-			
-			
-					<td>
-					<?php echo $result["AC_DETIAL"];?>  <?php	 } ?>
-					</td>
-					
-			</tr>
-			
-			  	   	  	 
-								
-			
-	        </table>
-	       		
-  	   	</nav>
-  	   	</div>
-  	   	</div>
-
-	
-  	   	</div>
-  	   		
-	   		
-    		 </div>
 			
 			<footer class="container-fluid">
 				<div class="alert alert-info">
