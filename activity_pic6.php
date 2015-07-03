@@ -27,7 +27,7 @@
 	<h2 class="text-center text-primary">โครงการยูนิค เอ็นจิเนียริ่ง</h2>
 	<br>
 	
-	<div class="container " align = "center">
+	<div class="container" align ="center">
 		<div class="fotorama" data-nav="thumbs">
 		  <img src="ActivityPic/ยูนิคเอ็น/u1.gif">
 		  <img src="ActivityPic/ยูนิคเอ็น/u2.gif">
