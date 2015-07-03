@@ -22,7 +22,7 @@
 		
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
-	<h1 class="text-center text-primary">Activity</h1>
+	
 	<br>
 	<h2 class="text-center text-primary">โครงการเสนาดิเวลลอปเม้นท์</h2>
 	<br>
@@ -35,7 +35,7 @@
 		  <img src="ActivityPic/เสนา/IMG_4.gif">
 		  <img src="ActivityPic/เสนา/IMG_5.gif">
 		</div>
-	</div>
+	</div><br>
 			
 	<?php
  	include 'footer.php';

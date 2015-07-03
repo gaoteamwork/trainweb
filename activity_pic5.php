@@ -22,13 +22,13 @@
 		
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
-	<h1 class="text-center text-primary">Activity</h1>
+	
 	<br>
 	<h2 class="text-center text-primary">โครงการศุภาลัยป่าสักรีสอร์ท</h2>
 	<br>
 	
 	
-			
+	<br>		
 	<?php
  	include 'footer.php';
 	?> 

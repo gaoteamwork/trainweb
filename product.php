@@ -21,7 +21,7 @@
 		
 		<div class="panel panel">...</div>
 		<div class="panel panel"></div>
-		<h1 class="text-center text-primary">Product</h1>
+		<br><h1 class="text-center text-primary">Product</h1>
 		<br>
 		<br>
 		<br>
@@ -103,7 +103,7 @@
 		  </div>
 		</div>
 	</div>
-		 
+		<br>
 		<?php
 	 	include 'footer.php';
 		?> 

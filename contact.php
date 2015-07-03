@@ -21,7 +21,7 @@
 		
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
-	<h1 class="text-center text-primary ">Contact us</h1>
+	<br><h1 class="text-center text-primary ">Contact us</h1>
 	<br><br><br>
 	
 	
@@ -51,7 +51,7 @@
 			</address>
 			</div>
 			
-			<h2 class="text-danger">Map</h2>
+			<h2 class="text-danger">Map</h2><br>
 			
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m8!1m3!1d968.3058932805968!2d100.45541002146527!3d13.88557579234712!3m2!1i1024!2i768!4f13.1!4m7!1i0!3e0!4m0!4m3!3m2!1d13.8857976!2d100.4550828!5e0!3m2!1sth!2sus!4v1426582565286" 
 			width="600" height="450"  style="border:0">
@@ -60,7 +60,7 @@
 		</div>	
 	</nav>
 
-
+	<br>
 	<?php
  	include 'footer.php';
 	?> 
