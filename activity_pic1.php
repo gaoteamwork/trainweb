@@ -27,23 +27,19 @@
 	<h2 class="text-center text-primary">โครงการเสนาดิเวลลอปเม้นท์</h2>
 	<br>
 	
-	
+	<div class="container " align = "center">
+		<div class="fotorama" data-nav="thumbs">
+		  <img src="ActivityPic/เสนา/IMG_1.gif">
+		  <img src="ActivityPic/เสนา/IMG_2.gif">
+		  <img src="ActivityPic/เสนา/IMG_3.gif">
+		  <img src="ActivityPic/เสนา/IMG_4.gif">
+		  <img src="ActivityPic/เสนา/IMG_5.gif">
+		</div>
+	</div>
 			
-			<footer class="container-fluid">
-				<div class="alert alert-info">
-				<div class="row">
-					<div class="col-sm-6 col-xs-6">
-						<nav class="nav navbar-nav navbar-left">&copy;Copyright SMART ICT Co.,Ltd.</nav>
-					</div>
-					<div class="col-sm-6 col-xs-6">
-					<nav class="nav navbar-nav navbar-right">
-						<a href="#">About Us</a> | <a href="#">Help</a> |
-						<a href="#">SiteMap</a>
-					</nav>
-					</div>
-				</div>
-				</div>
-			</footer>
+	<?php
+ 	include 'footer.php';
+	?> 
 			
 	<script src="js/jquery-1.10.2.js"></script>
 	<script src="js/bootstrap.min.js"></script>
