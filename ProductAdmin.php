@@ -102,7 +102,7 @@
 					</td>
 					
 					<td>
-					<?php echo $result["p_pic_path"]; }?> 
+					<?php echo $result["p_pic_path"]; } ?> 
 					
 					</td>
 					
