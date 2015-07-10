@@ -17,13 +17,12 @@
 
     
   </head>
- <
   <body>
   
   	<?php
  	include 'NavAdmin.php';
 	
-?>
+	?>
   			
 		 <div class="container ">
   			<div class="row ">
