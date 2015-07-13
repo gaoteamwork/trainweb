@@ -15,7 +15,7 @@
 <body>
 				
 		<?php
- 			include 'Nav.php';
+ 	include 'Nav.php';
 		?> 
 		
 	<div class="panel panel-primary" >...</div>

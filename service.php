@@ -21,7 +21,7 @@
 		
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
-			
+	<br>
 	<h1 class="text-center text-primary">Services</h1>
 		<div id="services" class="pad-section">
 		<div  class="container">
