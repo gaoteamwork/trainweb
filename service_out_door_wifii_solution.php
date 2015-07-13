@@ -24,15 +24,31 @@
 		
 	<div class="container">
 		<nav class="panel panel-primary" >
-		<h1 class="text-center text-primary">Out Door Wi-Fi Solution</h1>
-				<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Out Door Wi-Fi Solution</h3>
-				<div class="p"><p class="big">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;บริการด้านจัดทำระบบ WI-FI Out Door ออกแบบ ติดตั้ง ดูแล แก้ปัญหา ระบบ Wireless ในองค์กรของคุณให้ทำงานอย่างมีประสิทธิภาพ 
-				  ระบบ Wireless ภายนอก ระยะใกล้ ระยะไกล point to point ประมาณ 1-200 ก.ม. เราสามารถ ให้บริการท่านได้ทุกรูปแบบ </p></div>
-				<div class="panel panel"></div>
-				<div align="center"><img src="ServicePic/outdoor1.png" width="60%" height="60%"></div>
+			<h1 class="text-center text-primary">Out Door Wi-Fi Solution</h1>
+			<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Out Door Wi-Fi Solution</h3>
+				<div class="p">
+					<p class="big">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;บริการด้านจัดทำระบบ WI-FI Out Door ออกแบบ ติดตั้ง ดูแล แก้ปัญหา ระบบ Wireless ในองค์กรของคุณให้ทำงานอย่างมีประสิทธิภาพ 
+				 		 ระบบ Wireless ภายนอก ระยะใกล้ ระยะไกล point to point ประมาณ 1-200 ก.ม. เราสามารถ ให้บริการท่านได้ทุกรูปแบบ 
+				 	</p>
+				 </div>
+				<div align="center">
+					<br>
+					<img src="ServicePic/outdoor1.png" width="60%" height="60%">
+					<br>
+					<br>
+					<br>
+				</div>
 		</nav>
-				<div class="panel panel-primary"><div class="panel panel"></div>
-				<div align="center"><img src="ServicePic/outdoor2.png" width="70%" height="70%"></div><div class="panel panel"></div></div>
+				<div class="panel panel-primary">
+					<div align="center">
+						<br>
+						<br>
+						<img src="ServicePic/outdoor2.png" width="70%" height="70%">
+						<br>
+						<br>
+						<br>
+					</div>
+				</div>
 	</div>
 	
 	

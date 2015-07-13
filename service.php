@@ -22,7 +22,7 @@
 	<div class="panel panel-primary" >...</div>
 	<div class="panel panel"></div>
 			
-	<br><h1 class="text-center text-primary">Services</h1>
+	<h1 class="text-center text-primary">Services</h1>
 		<div id="services" class="pad-section">
 		<div  class="container">
 			<div class="row" align = "center">
@@ -31,7 +31,6 @@
 					<h3><a href ="service_pbx.php" class="text-success">PBX Link Trunk</a></h3>
 					<h5 class="">บริการด้านการสื่อสารที่ออกแบบมาเพื่อช่วยให้ต้นทุนหรือค่าใช้จ่ายขององค์กรลดลงได้มากถึง 30-40%...</h5>
 				</div>
-				
 				<div class="col-xs-12 col-md-4">
 					<a href ="service_cat_connect_fiber_optic.php"><i class="glyphicon glyphicon-transfer"></i></a>
 					<h3><a href ="service_cat_connect_fiber_optic.php" class="text-success">Cat Connect Fiber Optic</a></h3>
@@ -78,7 +77,6 @@
 					<h5 class="text-center">บริการด้านจัดทำ Security กล้อง IP-Camera ออกแบบ ติดตั้ง ดูแล แก้ปัญหา ระบบกล้องวงจรปิด ภายในองค์กร...</h5>
 				</div>
 			</div>
-		</div>
 		</div>
 	</div>
 	
