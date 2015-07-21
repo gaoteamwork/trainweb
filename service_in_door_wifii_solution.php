@@ -23,42 +23,19 @@
 	<div class="panel panel"></div>
 	<div class="container">
 		<nav class="panel panel-primary" >
-				<h1 class="text-center text-primary">In Door WiFi Solution</h1>
+		<h1 class="text-center text-primary">In Door WiFi Solution</h1>
 				<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Door Wi-Fi Solution</h3>
 				<div class="p"><p class="big">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;บริการด้านจัดทำการออกแบบ ระบบ Wi-Fi ภายในอาคาร บริการ ออกแบบ ติดตั้ง ดูแล แก้ปัญหาระบบ Wi-Fi /wireless 
-					ภายในอาคาร องค์กรของคุณอย่างมีประสิทธิภาพ ไม่พลาดในการติดต่อสื่อสารแม้เสี้ยววินาที </p>
-				</div>
-				<br>
-					<div align="center">
-						<br>
-						<br>
-						<img src="ServicePic/indoor1.jpg" width="55%" height="55%">
-						<br>
-						<br>
-						<br>
-					</div>
-		</nav>
+				ภายในอาคาร องค์กรของคุณอย่างมีประสิทธิภาพ ไม่พลาดในการติดต่อสื่อสารแม้เสี้ยววินาที </p></div>
+				<div class="panel panel"></div>
+				<div align="center"><img src="ServicePic/indoor1.jpg" width="55%" height="55%"></div>
+				</nav>
 				<div class="panel panel-primary">
-					<div align="center">
-						<br>
-						<br>
-						<img src="ServicePic/indoor2.png" width="70%" height="70%">
-						<br>
-						<br>
-						<br>
-					</div>
-				</div>
+				<div align="center"><img src="ServicePic/indoor2.png" width="70%" height="70%"></div></div>
 				<div class="panel panel-primary">
-					<div align="center">
-						<br>
-						<br>
-						<img src="ServicePic/indoor3.png" width="70%" height="70%">
-						<br>
-						<br>
-						<br>
-					</div>
-				</div>
-				<br>
+				<div align="center"><img src="ServicePic/indoor3.png" width="70%" height="70%"></div></div>
+				<div class="panel"></div>
+
 	</div>	
 	
 	

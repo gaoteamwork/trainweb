@@ -36,11 +36,11 @@
 			 เล่นเกมออนไลน์, Video On Demand (VOD) , ดูทีวีออนไลน์ และการท่องโลกออนไลน์ได้อย่างรวดเร็วทันใจ</p></div>
 		</nav>
 		
-		<br>
-		<br>				
-		<div align="center"><img src="ServicePic/catconnect.jpg" width="55%" height="55%"></div>
-		<br>
-		<br>
+		<div class="panel panel"></div>
+		<div class="panel panel"></div>
+				<div align="center"><img src="ServicePic/catconnect.jpg" width="55%" height="55%"></div>
+		<div class="panel panel"></div>
+		<div class="panel panel"></div>
 		
 		<nav class="panel panel-primary">
 			<div align ="center"><h2 class="text-info"> รูปแบบการให้บริการ</h2></div>
@@ -53,10 +53,11 @@
 			<div class="p"><p class="big">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fiber Optic Link มีแพ็คเกจสำหรับให้บริการ 3 แพ็คเกจ ดังนี้ Silver , 
 			Gold และ Platinum ซึ่งแพ็คเกจต่าง ๆ เหมาะสำหรับกลุ่มบุคคลทั่วไป กลุ่มลูกค้า SME จนถึงกลุ่ม Corporate</p></div>
 		</nav>
-		<br>
+	<div class="panel panel"></div>
+	<div class="panel panel"></div>
 			<div align="center"><img src="ServicePic/catconnect2.jpg" width="55%" height="55%"></div>
-		<br>
-		<br>
+	<div class="panel panel"></div>
+	<div class="panel panel"></div>
 
 
 		

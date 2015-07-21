@@ -19,48 +19,36 @@
 		?> 
 		
 		
-		<div class="panel panel-primary" >...</div>
-		<br>
-		<div class="container panel panel-primary"><h1 class="text-center text-primary">Application Solutions</h1>
-					<br>
-					<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Service Payment Gate way Project e-Payment For I-Mobile 3GX</h3>
-					<br>
-					<br>
-					<div class="container" align="center"><img src="ServicePic/application1.png" width="50%" height="50%"></div>
-					<br>
-					<br>
-		</div>
+	<div class="panel panel-primary" >...</div>
+	<div class="panel panel"></div>
+	<div class="container panel panel-primary"><h1 class="text-center text-primary">Application Solutions</h1>
+	<div class="panel panel"></div>
+	<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Service Payment Gate way Project e-Payment For I-Mobile 3GX</h3>
+				<div class="panel panel"></div>
+				<div class="container" align="center"><img src="ServicePic/application1.png" width="50%" height="50%"></div>
+				<div class="panel panel"></div></div>
+	
+	<div class="container panel panel-primary">
+	<div class="panel panel"></div>
+	<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Service Payment Gate way Project e-Payment For I-Mobile 3GX</h3>
+				<div class="panel panel"></div>
+				<div class="container" align="center"><img src="ServicePic/application2.png" width="50%" height="50%"></div>
+				<div class="panel panel"></div></div>
+				
+	<div class="container panel panel-primary">
+	<div class="panel panel"></div>
+	<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ระบบบริหารงาน   ERP โรงเรียน</h3>
+				<div class="panel panel"></div>
+				<div class="container" align="center"><img src="ServicePic/application3.jpg" width="50%" height="50%"></div>
+				<div class="panel panel"></div></div>
+	
+	<div class="container panel panel-primary">
+	<div class="panel panel"></div>
+	<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online Excess Baggage Project บริษัท การบินไทย จำกัด มหาชน</h3>
+				<div class="panel panel"></div>
+				<div class="container" align="center"><img src="ServicePic/application4.png" width="75%" height="75%"></div>
+				<div class="panel panel"></div></div>
 		
-		<div class="container panel panel-primary">
-					<br>
-					<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Service Payment Gate way Project e-Payment For I-Mobile 3GX</h3>
-					<br>
-					<br>
-					<div class="container" align="center"><img src="ServicePic/application2.png" width="50%" height="50%"></div>
-					<br>
-					<br>
-		</div>
-					
-		<div class="container panel panel-primary">
-					<br>
-					<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ระบบบริหารงาน   ERP โรงเรียน</h3>
-					<br>
-					<br>
-					<div class="container" align="center"><img src="ServicePic/application3.jpg" width="50%" height="50%"></div>
-					<br>
-					<br>
-		</div>
-		
-		<div class="container panel panel-primary">
-					<br>
-					<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online Excess Baggage Project บริษัท การบินไทย จำกัด มหาชน</h3>
-					<br>
-					<br>
-					<div class="container" align="center"><img src="ServicePic/application4.png" width="75%" height="75%"></div>
-					<br>
-					<br>
-		</div>
-			
 	
 	
 	

@@ -15,12 +15,11 @@
 		<meta name="viewport" content="width=divice-width, initial-scale=1" charset="UTF-8">
 </head>
 <body>
-			
-		<?php
- 		include 'Nav.php';
-		?> 
-		
 
+		<?php
+ 	include 'Nav.php';
+		?> 
+	
 		<div class="panel panel-primary">...</div>
 		<div class="panel panel"></div>
 			<div class="fotorama"  data-autoplay="true" data-width="1440"data-height="500"> 
@@ -37,23 +36,23 @@
 		    <h2 class="text-center">Services</h2> <hr />
 			    <div class="row text-center">
 			      <div class="col-sm-3 col-xs-12">
-	     			 	<a href ="service_pbx.php"><i class="glyphicon glyphicon-globe"></i></a>
-				        <h4><a href ="service_pbx.php">PBX Link Trunk</a></h4>
+	     			 	<a href ="#"><i class="glyphicon glyphicon-globe"></i></a>
+				        <h4><a href ="#">PBX Link Trunk</a></h4>
 				        <p>บริการด้านการสื่อสารที่ออกแบบมาเพื่อช่วยให้ต้นทุนหรือค่าใช้จ่ายขององค์กรลดลงได้มากถึง 30-40%</p>
 			      </div>
 			      <div class="col-sm-3 col-xs-12">
-	     			 	<a href ="service_application_solutions.php"><i class="glyphicon glyphicon-transfer"></i></a>
-				        <h4><a href ="service_application_solutions.php">CAT Connect Fiber Optic</a></h4>
+	     			 	<a href ="#"><i class="glyphicon glyphicon-transfer"></i></a>
+				        <h4><a href ="#">CAT Connect Fiber Optic</a></h4>
 				        <p>บริการสำหรับลูกค้าองค์กรเพื่อการใช้บริการ Internet ความเร็วสูง ราคาประหยัด Fiber Optic Link เป็นบริการอินเทอร์เน็ตความเร็วสูงที่ให้บริการผ่านข่ายสายใยแก้วนำแสงที่มีประสิทธิภาพสูงในการรับ-ส่งข้อมูล</p>
 			      </div>
 			      <div class="col-sm-3 col-xs-12">
-	     			 	<a href ="service_corporate_ip.php"><i class="glyphicon glyphicon-phone-alt"></i></a>
-				        <h4><a href ="service_corporate_ip.php">Corporate IP-PBX Solutions</a></h4>
+	     			 	<a href ="#"><i class="glyphicon glyphicon-phone-alt"></i></a>
+				        <h4><a href ="#">Corporate IP-PBX Solutions</a></h4>
 				        <p>บริการด้านการเชื่อมต่อระบบตู้โทรศัพท์ ระหว่างสาขาเพื่อให้โทรหากันฟรี ให้แก่องค์กร ด้วยเทคโนโลยี IP-PABX ของ Panasonic Solutions</p>
 			      </div>
 			      <div class="col-sm-3 col-xs-12">
-	     			 	<a href ="service_application_solutions.php"><i class="glyphicon glyphicon-th-large"></i></a>
-			        	<h4><a href ="service_application_solutions.php">Application Solutions</a></h4>
+	     			 	<a href ="#"><i class="glyphicon glyphicon-th-large"></i></a>
+			        	<h4><a href ="#">Application Solutions</a></h4>
 			        	<p>ออกแบบและพัฒนา Website ที่ทันสมัยด้วย HTML5 ที่สามารถรันได้บนทุก Platform ไม่ว่าจะเป็นบน PC Mac Mobile รวมไปถึง Tablet ได้อย่างสวยงาม กับ Trend ที่กำลังมาใหม่</p>
 			      </div>
 			      <div class="col-sm-12 col-xs-12">

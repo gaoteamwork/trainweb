@@ -48,7 +48,7 @@
 			<div class="col-sm-6 col-md-6 col-xs-6">
           <div class="login-form">
             <div class="form-group">
-              <input input name="txtUsername" type="text" class="form-control login-field" value="" placeholder="Enter your name" id="txtUsername">
+              <input type="text" class="form-control login-field" value="" placeholder="Enter your name" id="login-name" />
               <label class="login-field-icon fui-user" for="login-name"></label>
             </div>
            </div>
@@ -56,7 +56,7 @@
 
 
             <div class="form-group">
-              <input input name="txtPassword" type="password" class="form-control login-field" value="" placeholder="Password" id="txtPassword"> 
+              <input type="password" class="form-control login-field" value="" placeholder="Password" id="login-pass" />
               <label class="login-field-icon fui-lock" for="login-pass"></label>
             </div>
 		</div>	
@@ -67,7 +67,7 @@
 			<div class="col-sm-4 col-md-4 col-xs-4"></div>
 			
 			<div class="col-sm-4 col-md-4 col-xs-4">
-	            <input class="btn btn-primary btn-lg btn-block "type="submit" name="Submit" value="Login"/>
+	            <a class="btn btn-primary btn-lg btn-block " href="#">Log in</a>
 	            <a class="login-link" href="#">Lost your password?</a>
         	</div>
  			

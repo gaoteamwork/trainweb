@@ -23,62 +23,24 @@
 	<div class="panel panel"></div>		
 	<div class="container">
 		<nav class="panel panel-primary" >
-			<h1 class="text-center text-primary">Network Solution</h1>
+		<h1 class="text-center text-primary">Network Solution</h1>
 				<h3 class="text-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Network Solution</h3>
-				<div class="p">
-					<p class="big">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;บริการด้านการออกแบบระบบ Enterprise Network Solution 
-						สำหรับองค์กร เราให้บริการท่านในทุกๆด้านเกี่ยวกับระบบ Network ไม่ว่าจะเป็นการติดตั้งระบบเครือข่าย (Network) เพื่อเชื่อมโยงคอมพิวเตอร์ของบริษัท 
-						ให้สามารถเชื่อมต่อกับ Internet ซึ่งจะทำให้องค์กร สามารถใช้ Internet ได้รวดเร็วขึ้น หรือว่าจะเป็นการบริการด้านระบบ Operating System 
-						 เช่น การ Setup และ Install ที่เหมาะสมแก่ลูกค้า การทำ Configuration  ต่างๆ เช่น IP configuration, Protocols อื่นๆ
-					</p>
-				</div>
-				<div align="center">
-					<br>
-					<img src="ServicePic/network_solution1.png" width="50%" height="50%">
-					<br>
-					<br>
-					<br>
-				</div>
-		</nav>
+				<div class="p"><p class="big">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;บริการด้านการออกแบบระบบ Enterprise Network Solution 
+				สำหรับองค์กร เราให้บริการท่านในทุกๆด้านเกี่ยวกับระบบ Network ไม่ว่าจะเป็นการติดตั้งระบบเครือข่าย (Network) เพื่อเชื่อมโยงคอมพิวเตอร์ของบริษัท 
+				ให้สามารถเชื่อมต่อกับ Internet ซึ่งจะทำให้องค์กร สามารถใช้ Internet ได้รวดเร็วขึ้น หรือว่าจะเป็นการบริการด้านระบบ Operating System 
+				 เช่น การ Setup และ Install ที่เหมาะสมแก่ลูกค้า การทำ Configuration  ต่างๆ เช่น IP configuration, Protocols อื่นๆ </p></div>
+				<div class="panel panel"></div>
+				<div align="center"><img src="ServicePic/network_solution1.png" width="50%" height="50%"></div>
+				</nav>
 				<div class="panel panel-primary">
-					<div align="center">
-						<br>
-						<img src="ServicePic/network_solution2.png" width="50%" height="50%">
-						<br>
-						<br>
-						<br>
-					</div>
-				</div>
-				
+				<div align="center"><img src="ServicePic/network_solution2.png" width="50%" height="50%"></div></div>
 				<div class="panel panel-primary">
-					<div align="center">
-						<br>
-						<img src="ServicePic/network_solution3.png" width="50%" height="50%">
-						<br>
-						<br>
-						<br>
-					</div>
-				</div>
+				<div align="center"><img src="ServicePic/network_solution3.png" width="50%" height="50%"></div></div>
 				<div class="panel panel-primary">
-					<div align="center">
-						<br>
-						<br>
-						<img src="ServicePic/network_solution4.png" width="50%" height="50%">
-						<br>
-						<br>
-						<br>
-					</div>
-				</div>
+				<div align="center"><img src="ServicePic/network_solution4.png" width="50%" height="50%"></div></div>
 				<div class="panel panel-primary">
-					<div align="center">
-					<br>
-					<img src="ServicePic/network_solution5.png" width="50%" height="50%">
-					<br>
-					<br>
-					<br>
-					</div>
-				</div>
-				<br>
+				<div align="center"><img src="ServicePic/network_solution5.png" width="50%" height="50%"></div></div>
+				<div class="panel"></div>
 	</div>
 	
 	
