@@ -36,23 +36,23 @@
 		    <h2 class="text-center">Services</h2> <hr />
 			    <div class="row text-center">
 			      <div class="col-sm-3 col-xs-12">
-	     			 	<a href ="#"><i class="glyphicon glyphicon-globe"></i></a>
-				        <h4><a href ="#">PBX Link Trunk</a></h4>
+	     			 	<a href ="service_pbx.php"><i class="glyphicon glyphicon-globe"></i></a>
+				        <h4><a href ="service_pbx.php">PBX Link Trunk</a></h4>
 				        <p>บริการด้านการสื่อสารที่ออกแบบมาเพื่อช่วยให้ต้นทุนหรือค่าใช้จ่ายขององค์กรลดลงได้มากถึง 30-40%</p>
 			      </div>
 			      <div class="col-sm-3 col-xs-12">
-	     			 	<a href ="#"><i class="glyphicon glyphicon-transfer"></i></a>
-				        <h4><a href ="#">CAT Connect Fiber Optic</a></h4>
+	     			 	<a href ="service_cat_connect_fiber_optic.php"><i class="glyphicon glyphicon-transfer"></i></a>
+				        <h4><a href ="service_cat_connect_fiber_optic.php">CAT Connect Fiber Optic</a></h4>
 				        <p>บริการสำหรับลูกค้าองค์กรเพื่อการใช้บริการ Internet ความเร็วสูง ราคาประหยัด Fiber Optic Link เป็นบริการอินเทอร์เน็ตความเร็วสูงที่ให้บริการผ่านข่ายสายใยแก้วนำแสงที่มีประสิทธิภาพสูงในการรับ-ส่งข้อมูล</p>
 			      </div>
 			      <div class="col-sm-3 col-xs-12">
-	     			 	<a href ="#"><i class="glyphicon glyphicon-phone-alt"></i></a>
-				        <h4><a href ="#">Corporate IP-PBX Solutions</a></h4>
+	     			 	<a href ="service_ip_tv_solution.php"><i class="glyphicon glyphicon-phone-alt"></i></a>
+				        <h4><a href ="service_ip_tv_solution.php">Corporate IP-PBX Solutions</a></h4>
 				        <p>บริการด้านการเชื่อมต่อระบบตู้โทรศัพท์ ระหว่างสาขาเพื่อให้โทรหากันฟรี ให้แก่องค์กร ด้วยเทคโนโลยี IP-PABX ของ Panasonic Solutions</p>
 			      </div>
 			      <div class="col-sm-3 col-xs-12">
-	     			 	<a href ="#"><i class="glyphicon glyphicon-th-large"></i></a>
-			        	<h4><a href ="#">Application Solutions</a></h4>
+	     			 	<a href ="service_network_solution.php"><i class="glyphicon glyphicon-th-large"></i></a>
+			        	<h4><a href ="service_network_solution.php">Application Solutions</a></h4>
 			        	<p>ออกแบบและพัฒนา Website ที่ทันสมัยด้วย HTML5 ที่สามารถรันได้บนทุก Platform ไม่ว่าจะเป็นบน PC Mac Mobile รวมไปถึง Tablet ได้อย่างสวยงาม กับ Trend ที่กำลังมาใหม่</p>
 			      </div>
 			      <div class="col-sm-12 col-xs-12">
